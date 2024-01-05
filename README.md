@@ -21,13 +21,15 @@
 >
 > 提供1.远程部署/2.修改代码/3.设计文档指导/4.框架代码讲解等服务
 >
-> 前台首页: http://localhost:8080/jspmv15oi/front/index.jsp
+> 前端首页: http://localhost:8080/ssmu8xr0/front/index.html
 >
-> 后端登录地址：http://localhost:8080/jspmv15oi/jsp/login.jsp
+> 前端登录: http://localhost:8080/ssmu8xr0/front/pages/login/login.html
 >
-> 管理员: admin   密码: 123456
+> 用户: 用户名: user 密码: 123456
 >
-> 用户: user   密码: 123456
+> 后端登录: http://localhost:8080/ssmu8xr0/admin/dist/index.html#/index
+>
+> 管理员: 用户名: admin 密码: 123456
 >
 
 ## 环境
